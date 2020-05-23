@@ -1,6 +1,8 @@
 # mask-rcnn-camera-test
 mask-rcnn 基于摄像头的测试程序
 
+# 依赖object_detection
+
 #### 项目结构
 - camera_test.py - 摄像头测试
 - json_edit.py - labelme 标注文件批处理
